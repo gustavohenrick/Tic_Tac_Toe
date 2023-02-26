@@ -15,8 +15,14 @@ body {
 }
 
 h1 {
+<<<<<<< HEAD
     color: #FFF;
     margin: 20px 0;
+=======
+    color: #f18002;
+    margin: 20px 0;
+    font-size: 65px;
+>>>>>>> c41e6d6 (Atualização do CSS)
 }
 
 .area {
@@ -31,9 +37,15 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
     font-size: 60px;
     font-weight: bold;
     color: #FFF;
+=======
+    font-size: 85px;
+    font-weight: bold;
+    color: #8257e6;
+>>>>>>> c41e6d6 (Atualização do CSS)
     cursor: pointer;
 }
 .item:hover {
@@ -70,8 +82,13 @@ h1 {
 }
 .infocorpo {
     text-align: center;
+<<<<<<< HEAD
     color: #FFF;
     font-size: 20px;
+=======
+    color: #04d361;
+    font-size: 25px;
+>>>>>>> c41e6d6 (Atualização do CSS)
 }
 
 .reset {
