@@ -5,7 +5,7 @@ Jogo da velha do arquivo é uma tentativa de aprendizado.
 ## construído com
 HTML,
 CSS,
-Vanilla JavaScript
+JavaScript
 
 ## Começando
 
