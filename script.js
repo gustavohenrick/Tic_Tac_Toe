@@ -85,11 +85,7 @@ function checkGame(){
         warning = 'O "o" venceu';
         playing = false;
     } else if (isFull()) {
-<<<<<<< HEAD
-        warning = 'Deu empate';
-=======
         warning = 'Empate';
->>>>>>> c41e6d6 (Atualização do CSS)
         playing = false;
     }
 }
